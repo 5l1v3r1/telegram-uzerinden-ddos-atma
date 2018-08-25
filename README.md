@@ -1,4 +1,5 @@
 # telegram-ddos-atma
+# Piyasada Böyle Birşey Görmedim Sanırsam Telegram Üzerinden İLK DDoS Atma Olayını Ben Kodladım :)
 # telegram üzerinden ddos atabilirsiniz
 # Telegrama Girip /sunucu ddosat ip port yazarak ddos atabilirsiniz
 # Telegramdan APİ Key Almanız Gereklidir
