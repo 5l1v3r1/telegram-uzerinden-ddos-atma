@@ -9,9 +9,7 @@ $ayar = [
 		],
 	];
 	
-spl_autoload_register(function($sinif) {
-	include_once 'ayar/' . $sinif . '.php';
-});
+
 $veri = file_get_contents("php://input");
 $guncelle = json_decode($veri, true);
 $sohbetnumarasi = $guncelle["message"]["chat"]["id"];
