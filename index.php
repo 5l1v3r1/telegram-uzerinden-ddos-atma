@@ -2,9 +2,9 @@
 
 $ayar = [
 	
-	'bot_token' => 'Anahtariniz',
-	'only_trusted' => TRUE,
-	'trusted' => [ 
+	'bot_anahtari' => 'Anahtariniz',
+	'sadece_guvenli' => TRUE,
+	'guvenlik' => [ 
 		'Sohbet Numarasi' 
 		],
 	];
